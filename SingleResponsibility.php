@@ -1,6 +1,6 @@
 <?php 
 
-// Single Responsibility
+// Single Responsibility Principle
 // Role
 // 1. Class should have only one reason to change
 // 2. Class should have only one responsibility
