@@ -1,0 +1,15 @@
+{
+    "name": "yossef/solid",
+    "autoload": {
+        "psr-4": {
+            "Yossef\\Solid\\": "/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yossef-ashraf",
+            "email": "yossefff2001@gmail.com"
+        }
+    ],
+    "require": {}
+}
