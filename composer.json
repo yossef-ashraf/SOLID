@@ -2,13 +2,13 @@
     "name": "yossef/solid",
     "autoload": {
         "psr-4": {
-            "Yossef\\Solid\\": "/"
+            "APP": "./"
         }
     },
     "authors": [
         {
             "name": "yossef-ashraf",
-            "email": "yossefff2001@gmail.com"
+            "email": "yossefa538@gmail.com"
         }
     ],
     "require": {}
