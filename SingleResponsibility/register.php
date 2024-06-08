@@ -1,5 +1,5 @@
 <?php
-namespace SingleResponsibility;
+namespace APP\SingleResponsibility;
 
 class register{
   

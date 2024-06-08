@@ -1,9 +1,9 @@
 <?php 
 
-namespace SingleResponsibility;
+namespace APP\SingleResponsibility;
 
-use SingleResponsibilityUser\login;
-use SingleResponsibilityUser\register;
+// use APP\SingleResponsibilityUser\login;
+// use APP\SingleResponsibilityUser\register;
 
 
 class SingleResponsibilityUser{
