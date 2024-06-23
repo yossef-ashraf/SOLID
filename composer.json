@@ -2,7 +2,7 @@
     "name": "yossef/solid",
     "autoload": {
         "psr-4": {
-            "APP": "./"
+            "APP\\": "APP/"
         }
     },
     "authors": [
