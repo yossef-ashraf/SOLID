@@ -16,4 +16,8 @@ require 'vendor/autoload.php';
 // $exAllOperations= new APP\InterfaceSegregation\Operations();
 
 
+// $players = ["Defence","Defence","Defence","Defence","Attack","Attack","Attack"]; // can add more players useing interface
+// $DefenceInterfaces= new APP\DependencyInversion\Matchs($players);
+
+
 
