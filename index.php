@@ -10,6 +10,10 @@ require 'vendor/autoload.php';
 // $OpenClose= new APP\OpenClose\Matchs($players);
 
 
-$Liskov= new APP\Liskov\Liskov();
+// $Liskov= new APP\Liskov\Liskov();
+
+// $exRead= new APP\InterfaceSegregation\Read();
+// $exAllOperations= new APP\InterfaceSegregation\Operations();
+
 
 
